@@ -26,7 +26,7 @@ function Hero() {
         </a>
       </div>
 
-      <img src="/photos/hero.jpg" alt="Birthday memory" className="hero-img" />
+      <img src="/photos/Hero.jpg" alt="Birthday memory" className="hero-img" />
     </section>
   );
 }
